@@ -108,6 +108,8 @@ This comprehensive study demonstrates **significant correlations between astrono
 
 **Pattern:** Lunar influences dominate - timing and emotional cycles significant.
 
+For more, see https://github.com/renayo/succesful_fbi_codes_predictor/blob/main/enhanced_feature_importance_20250827_132115.csv
+
 ## 🛠️ Technical Implementation Details
 
 ### 🌌 Astronomical Calculation System
