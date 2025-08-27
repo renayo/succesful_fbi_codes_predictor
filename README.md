@@ -168,13 +168,10 @@ This comprehensive study demonstrates **significant correlations between astrono
 ### 1. Environment Setup
 ```bash
 # Create virtual environment
-python -m venv .venv
 
 # Activate environment (Windows)
-.venv\Scripts\activate
 
 # Install dependencies
-pip install -r requirements.txt
 ```
 
 ### 2. Data Preparation
