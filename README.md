@@ -19,9 +19,9 @@ This comprehensive study demonstrates **significant correlations between astrono
 
 ## 📊 Performance Results Summary
 
-### 🌟 Top Performing Crime Classifications (50% Percentile Threshold)
+### 🌟 Top Performing Crime Classifications (At or Above 50% Percentile Threshold)
 
-| Rank | FBI Code | Crime Type | F1 Score | Performance | Threshold |
+| Rank | FBI Code | Crime Type | F1 Score | Performance | >=Threshold |
 |------|----------|------------|----------|-------------|-----------|
 | 1 | **15** | Sex Offense | **0.860** | 🔥 EXCELLENT | 12.0 |
 | 2 | **04A** | Aggravated Assault | **0.765** | ⭐ VERY GOOD | 17.0 |
