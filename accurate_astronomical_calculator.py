@@ -500,18 +500,14 @@ class AccurateAstronomicalCalculator:
                                    330 <= features['mercury_longitude'] <= 360) else 0,  # Virgo/Gemini
         })
         
-        # Calculate all 97 minor planet longitudes
+        # Calculate all 92 minor planet longitudes
         for category_name, category_planets in self.minor_planets.items():
             for planet_key, planet_info in category_planets.items():
                 longitude = self._calculate_minor_planet_longitude(planet_info, observer)
                 feature_name = f"{category_name}_{planet_key}_longitude"
                 features[feature_name] = longitude
         
-        # Calculate category composite features
-        for category_name in self.minor_planets.keys():
-            category_features = [f for f in features.keys() if f.startswith(f"{category_name}_") and f.endswith("_longitude")]
-            if category_features:
-                features[f"{category_name}_composite"] = np.mean([features[f] for f in category_features])
+        # Composite features removed - using individual features only
         
         return features
     
