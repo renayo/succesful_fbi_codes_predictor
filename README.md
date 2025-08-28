@@ -35,6 +35,45 @@ This updated analysis demonstrates that **removing composite features significan
 | 9 | **01A** | Murder | **0.394** | 📈 MODERATE | 2.0 | ↗️ +0.321 |
 | 10 | **09** | Arson | **0.343** | 📈 MODERATE | 2.0 | ↗️ +0.343 |
 
+🌟 TOP 5 FEATURES PER TOP 5 FBI CODES:
+--------------------------------------------------------------------------------
+
+🎯 FBI 15 (F1=0.910):
+   1. neptune_longitude                        (0.0967) - Traditional Planet
+   2. aggression_eris_longitude                (0.0840) - Aggression Minor Planet
+   3. aggression_orcus_longitude               (0.0765) - Aggression Minor Planet
+   4. pluto_longitude                          (0.0590) - Traditional Planet
+   5. mayhem_chaos_longitude                   (0.0496) - Mayhem Minor Planet
+
+🎯 FBI 02 (F1=0.777):
+   1. moon_distance                            (0.0286) - Lunar Feature
+   2. moon_longitude                           (0.0282) - Traditional Planet
+   3. moon_phase                               (0.0277) - Lunar Feature
+   4. sun_longitude                            (0.0257) - Traditional Planet
+   5. midheaven                                (0.0245) - Astrological House
+
+🎯 FBI 04A (F1=0.777):
+   1. victims_pain_chiron_longitude            (0.0583) - Victim/Pain Minor Planet
+   2. uranus_longitude                         (0.0572) - Traditional Planet
+   3. north_node                               (0.0460) - Lunar Node
+   4. sun_longitude                            (0.0415) - Traditional Planet
+   5. midheaven                                (0.0413) - Astrological House
+
+🎯 FBI 08A (F1=0.733):
+   1. uranus_longitude                         (0.0664) - Traditional Planet
+   2. victims_pain_chiron_longitude            (0.0627) - Victim/Pain Minor Planet
+   3. mayhem_chaos_longitude                   (0.0510) - Mayhem Minor Planet
+   4. aggression_nessus_longitude              (0.0485) - Aggression Minor Planet
+   5. aggression_eris_longitude                (0.0429) - Aggression Minor Planet
+
+🎯 FBI 07 (F1=0.631):
+   1. aggression_nessus_longitude              (0.1166) - Aggression Minor Planet
+   2. uranus_longitude                         (0.1012) - Traditional Planet
+   3. victims_pain_chiron_longitude            (0.0734) - Victim/Pain Minor Planet
+   4. aggression_eris_longitude                (0.0636) - Aggression Minor Planet
+   5. neptune_longitude                        (0.0579) - Traditional Planet
+
+      
 ### 📈 UPDATED Performance Categories (Individual Features vs Previous Composites)
 - **🔥 Excellent (F1 > 0.8):** 1 code (same as before) - FBI 15 now at **0.910**
 - **⭐ Very Good (F1 0.6-0.8):** **4 codes** (up from 3) - **+33% increase**
