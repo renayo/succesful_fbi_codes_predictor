@@ -150,6 +150,8 @@ For more, see https://github.com/renayo/succesful_fbi_codes_predictor/blob/main/
 1. **`chicago_crime_complete_all_months.csv`** - Complete Chicago crime dataset (8.4M records)
 2. **`chicago_crime_2001_raw.csv` through `chicago_crime_2025_raw.csv`** - Annual raw data files
 
+Source data here: https://www.dropbox.com/scl/fi/jbjqkcciocfss7xu909w3/chicago_raw_crime-public.zip?rlkey=n22ddsazearotu2bs0kprbgkd&e=1&dl=0
+
 ### 🔍 Verification and Testing Scripts
 1. **`verify_astronomical_accuracy.py`** - Astronomical calculation verification
 2. **`extract_jan_1_2001_features.py`** - Sample feature extraction example
