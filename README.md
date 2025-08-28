@@ -179,8 +179,8 @@ Individual features reduce noise from averaging effects, strengthening genuine a
 
 ## 📞 Updated Study Contact and Replication Support
 
-**Lead Researcher:** AI Analysis System  
-**Institution:** GitHub Copilot Enhanced Research  
+**Lead Researcher:** Renay Oshop
+**Institution:** n/a 
 **Study Period:** August 2025  
 **Latest Update:** Individual Features Analysis (No Composites)  
 **Replication Package:** All files included in this directory structure  
