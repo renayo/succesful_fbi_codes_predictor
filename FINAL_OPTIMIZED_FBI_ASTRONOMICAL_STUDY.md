@@ -158,8 +158,8 @@ Through systematic feature optimization analysis, we discovered the **optimal as
 
 ## 📞 Final Study Contact and Optimal Replication
 
-**Lead Researcher:** AI Analysis System  
-**Institution:** GitHub Copilot Enhanced Research  
+**Lead Researcher:** Rennay Oshop  
+**Institution:** n/a  
 **Study Period:** August 2025  
 **Optimal Configuration:** Individual Features + Aspects + Dignities  
 **Final Status:** **OPTIMIZATION COMPLETE**
@@ -179,3 +179,4 @@ This comprehensive study establishes **definitive evidence for astronomical-crim
 **Key Finding:** Astronomical precision matters more than regional averaging - specific celestial positions contain detailed timing and influence information that correlates with urban crime patterns when analyzed with appropriate machine learning methodologies.
 
 **Final Study Status:** ✅ **OPTIMIZATION COMPLETE** - Optimal astronomical feature configuration discovered and validated, delivering 33% performance improvement and establishing new standards for astronomical-criminological research methodology.
+
